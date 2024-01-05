@@ -6,4 +6,7 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(C__ main.cpp
         "2. Data Tyeps/main.cpp"
         "3. Array/main.cpp"
-        "4. Input Output/main.cpp")
+        "4. Input Output/main.cpp"
+        "5. Branching/main.cpp"
+        "6. Iteration/main.cpp"
+        "7. Number Guess/main.cpp")
