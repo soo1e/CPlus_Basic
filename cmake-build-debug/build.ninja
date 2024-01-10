@@ -91,6 +91,18 @@ build CMakeFiles/C__.dir/7._Number_Guess/main.cpp.o: CXX_COMPILER__C___unscanned
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir/7._Number_Guess
 
+build CMakeFiles/C__.dir/8._Pointer/main.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/chaesuwon/PROGRAMMER/C++/8.$ Pointer/main.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/8._Pointer/main.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir/8._Pointer
+
+build CMakeFiles/C__.dir/9._Function/main.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/chaesuwon/PROGRAMMER/C++/9.$ Function/main.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/9._Function/main.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir/9._Function
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C__
@@ -99,7 +111,7 @@ build CMakeFiles/C__.dir/7._Number_Guess/main.cpp.o: CXX_COMPILER__C___unscanned
 #############################################
 # Link the executable C__
 
-build C__: CXX_EXECUTABLE_LINKER__C___Debug CMakeFiles/C__.dir/main.cpp.o CMakeFiles/C__.dir/2._Data_Tyeps/main.cpp.o CMakeFiles/C__.dir/3._Array/main.cpp.o CMakeFiles/C__.dir/4._Input_Output/main.cpp.o CMakeFiles/C__.dir/5._Branching/main.cpp.o CMakeFiles/C__.dir/6._Iteration/main.cpp.o CMakeFiles/C__.dir/7._Number_Guess/main.cpp.o
+build C__: CXX_EXECUTABLE_LINKER__C___Debug CMakeFiles/C__.dir/main.cpp.o CMakeFiles/C__.dir/2._Data_Tyeps/main.cpp.o CMakeFiles/C__.dir/3._Array/main.cpp.o CMakeFiles/C__.dir/4._Input_Output/main.cpp.o CMakeFiles/C__.dir/5._Branching/main.cpp.o CMakeFiles/C__.dir/6._Iteration/main.cpp.o CMakeFiles/C__.dir/7._Number_Guess/main.cpp.o CMakeFiles/C__.dir/8._Pointer/main.cpp.o CMakeFiles/C__.dir/9._Function/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/C__.dir
   POST_BUILD = :

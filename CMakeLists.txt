@@ -9,4 +9,7 @@ add_executable(C__ main.cpp
         "4. Input Output/main.cpp"
         "5. Branching/main.cpp"
         "6. Iteration/main.cpp"
-        "7. Number Guess/main.cpp")
+        "7. Number Guess/main.cpp"
+        "8. Pointer/main.cpp"
+        "8. Pointer/main.h"
+        "9. Function/main.cpp")
